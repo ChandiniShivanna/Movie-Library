@@ -52,6 +52,7 @@ const moviesOriginalList = [
   const countTag = document.getElementById('count');
 
   let searchResults = [];
+  
 
   document.getElementById('search').addEventListener('click', function(event){
     console.log("button clicked");
