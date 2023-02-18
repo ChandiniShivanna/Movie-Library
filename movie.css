@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    margin:  auto;
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    background-color: rgb(247, 240, 241);
+    color: black;
+    text-decoration:dashed;
+}
+div{
+    background-color: pink;
+    padding: 10px;
+
+}
+button{
+    border-radius: 2px solid black;
+    color: darkblue;
+    background-color: palevioletred;
+}   
